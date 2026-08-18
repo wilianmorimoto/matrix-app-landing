@@ -7,15 +7,12 @@ Landing page temática com efeito visual de código em cascata e animações flu
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[Ver projeto →]([URL_DO_PROJETO])
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=your-repo-url)
+[Ver projeto →](https://matrix-app-landing.vercel.app/)
 
 ---
-
-## 📸 Preview
-(Placeholder para Screenshot ou GIF do projeto)
-
+<p align="center">
+  <img src="./public/readme.png" alt="Matrix App Landing Page Screenshot" width="838">
+</p>
 ---
 
 ## 🚀 Features
@@ -74,3 +71,5 @@ src/
 ├── App.jsx       # Orquestração das páginas e componentes
 └── main.jsx      # Ponto de entrada da aplicação
 ```
+
+---
