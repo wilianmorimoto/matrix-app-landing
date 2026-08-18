@@ -10,9 +10,11 @@ Landing page temática com efeito visual de código em cascata e animações flu
 [Ver projeto →](https://matrix-app-landing.vercel.app/)
 
 ---
+
 <p align="center">
   <img src="./public/readme.png" alt="Matrix App Landing Page Screenshot" width="838">
 </p>
+
 ---
 
 ## 🚀 Features
